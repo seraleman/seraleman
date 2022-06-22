@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio Manrique</h1>
-<h3 align="center">A passionate backend developer from Colombia</h3>
+<h3 align="center">Web developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seraleman&label=Profile%20views&color=0e75b6&style=flat"
         alt="seraleman" /> </p>
@@ -13,8 +13,6 @@
 - 💬 Ask me about **Java, Spring Boot and Vue.js**
 
 - 📫 How to reach me **seraleman1204@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/seraleman/](https://www.linkedin.com/in/seraleman/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
