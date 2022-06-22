@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working on [Digital List](https://github.com/seraleman/hub_digital_lists_be)
 
-- 🌱 I’m currently learning **English**
-
-- 👯 I’m looking to collaborate on [C13](https://github.com/codigoc13)
+- 🌱 I’m currently learning **English and MySQL**
 
 - 💬 Ask me about **Java, Spring Boot and Vue.js**
 
