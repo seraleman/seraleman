@@ -1,18 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sergio Manrique</h1>
-<h3 align="center">Web developer from Colombia</h3>
+<h1 align="center">Hola, ¿Qué tal? 👋, Soy Sergio Manrique</h1>
+<h3 align="center">Desarrollador web</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seraleman&label=Profile%20views&color=0e75b6&style=flat"
         alt="seraleman" /> </p>
 
-- 🔭 I’m currently working on [Digital List](https://github.com/seraleman/hub_digital_lists_be)
+- 📫 Contacto **seraleman1204@gmail.com**
 
-- 🌱 I’m currently learning **English and MySQL**
-
-- 💬 Ask me about **Java, Spring Boot and Vue.js**
-
-- 📫 How to reach me **seraleman1204@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contáctame:</h3>
 <p align="left">
     <a href="https://twitter.com/seraleman" target="_blank" rel="noreferrer"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -25,7 +19,7 @@
             alt="seraleman#2714" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Lenguajes y herramientas:</h3>
+<h3 align="left">Tecnologías</h3>
 <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
             alt="docker" width="40" height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
