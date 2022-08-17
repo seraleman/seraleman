@@ -25,7 +25,7 @@
             alt="seraleman#2714" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
             alt="docker" width="40" height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
