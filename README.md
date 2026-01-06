@@ -41,14 +41,3 @@ Tengo experiencia sólida trabajando en entornos empresariales con tecnologías 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seraleman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Sergio Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seraleman&theme=tokyonight&hide_border=true&background=0d1117" alt="Sergio Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seraleman&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Sergio Top Langs" />
-</div>
