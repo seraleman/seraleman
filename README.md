@@ -1,16 +1,12 @@
 <div align="center">
-  <h1>¡Hola! Soy Sergio Manrique 👋</h1>
-  <h3>Full Stack Developer | Java & JavaScript Ecosystems</h3>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=seraleman&label=Profile%20views&color=0e75b6&style=flat" alt="seraleman" />
-  </p>
-
-  <p>
-    Soy un apasionado desarrollador de software enfocado en construir aplicaciones web escalables y eficientes.<br>
-    Tengo experiencia sólida creando soluciones robustas integrando <b>Backend (Java/Spring, Node.js)</b> y <b>Frontend (Vue.js, TS)</b>.
-  </p>
+  <h1>Sergio Manrique</h1>
+  <h3>Software Engineer | Backend & Architecture</h3>
   
+  <p>
+    Especialista en <b>TypeScript</b> y ecosistemas de alto rendimiento.<br>
+    Enfocado en Arquitectura de Software, <b>Domain-Driven Design (DDD)</b> y Clean Architecture.
+  </p>
+
   <p>
     <a href="https://linkedin.com/in/seraleman" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -19,36 +15,40 @@
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
     <a href="mailto:seraleman1204@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Stack Actual & Enfoque
 
-Me especializo en el desarrollo end-to-end utilizando tecnologías modernas:
+Actualmente diseño y construyo sistemas escalables priorizando el modelado de dominio y las buenas prácticas.
 
-| **Frontend** | **Backend** | **Data & Tools** |
-|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" alt="Vue"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TS"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="Mongo"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/> |
-| *Vue.js, TypeScript, HTML/CSS* | *Java, Spring Boot, Node.js, GraphQL* | *MongoDB, MySQL, Git, Docker* |
+| **Core Stack** | **Arquitectura & Herramientas** |
+|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="NodeJS"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="Postgres"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS"/> |
+| **TypeScript, Node.js, SQL/NoSQL** | **DDD, Docker, CI/CD** |
+
+<br>
+
+### 📜 Experiencia Previa / Background
+Tengo experiencia sólida trabajando en entornos empresariales con tecnologías legacy y robustas:
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=seraleman&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Sergio's Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seraleman&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Sergio's Top Langs" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seraleman&theme=radical&hide_border=true" alt="Sergio's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seraleman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Sergio Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seraleman&theme=tokyonight&hide_border=true&background=0d1117" alt="Sergio Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seraleman&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Sergio Top Langs" />
 </div>
